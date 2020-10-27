@@ -4,7 +4,7 @@ I made this project just for fun.
 
 Skills: JAVA / VUE / JS
 
-🌱 I’m currently learning Java8 Spring MySQL Redis 📫 How to reach me: someexp@riseup.net 
+🌱 I’m currently learning Java8+ Spring5+ MySQL5.7+ Redis 📫 How to reach me: someexp@riseup.net 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thesomeexp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://someexp.com)  
 
