@@ -1,4 +1,4 @@
-### Hi there 👋, my name is SomeExp
+### Hi there 👋, my name is thesomeexp
 I made this project just for fun. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thesomeexp&show_icons=true)
